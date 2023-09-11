@@ -1,0 +1,14 @@
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\bin\Debug\net7.0\clase13-pe-JosueMoraga.exe
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\bin\Debug\net7.0\clase13-pe-JosueMoraga.deps.json
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\bin\Debug\net7.0\clase13-pe-JosueMoraga.runtimeconfig.json
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\bin\Debug\net7.0\clase13-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\bin\Debug\net7.0\clase13-pe-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.AssemblyInfoInputs.cache
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.AssemblyInfo.cs
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.csproj.CoreCompileInputs.cache
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\refint\clase13-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\clase13-pe-JosueMoraga.genruntimeconfig.cache
+F:\UNIVO\Programacion estructurada\Clase 13\clase13-pe-JosueMoraga\obj\Debug\net7.0\ref\clase13-pe-JosueMoraga.dll
